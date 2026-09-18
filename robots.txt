@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hansrajenterprises.com/sitemap.xml
